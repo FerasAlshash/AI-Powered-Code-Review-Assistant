@@ -90,6 +90,11 @@ code-review-assistant/
 
 └── reviews.db          # SQLite database (generated on first run) 🗃️
 
+License 📜
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 
 ## Contact Information 📞
 
