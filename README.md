@@ -1,5 +1,10 @@
 # Code Review Assistant ✨
 
+![AI-Powered-Code-Review-Assistant](https://github.com/FerasAlshash/AI-Powered-Code-Review-Assistant/blob/main/AI-Powered-Code-Review-Assistant.jpg)
+
+
+
+
 A Flask-based web application that leverages the Grok AI model (via LangChain and Groq API) to provide detailed code reviews and interactive Q&A functionality. This tool allows developers to submit code snippets, receive professional feedback, ask follow-up questions, and maintain a history of reviews and conversations, all stored in a SQLite database. 🚀
 
 ---
